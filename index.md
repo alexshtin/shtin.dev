@@ -1,4 +1,4 @@
-## Welcome to shtin.com
+## Welcome to shtin.dev
 
 My github: [alexshtin](https://github.com/alexshtin/).
 
